@@ -19,6 +19,10 @@
         width: 50%;
     }
 
+    div#formulario > h1 {
+        padding-bottom: 10px;
+    }
+
     div#formulario > p{
         padding-bottom: 70px;
         font-size: 0.9em;
