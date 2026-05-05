@@ -79,6 +79,11 @@ div.campo > i {
     padding: 5px;
 }
 
+div.campo > input:hover {
+    background-color: #9fe4fd;
+    border: 1px solid #72ADC2;
+}
+
 form > input[type=submit] {
     display: block;
     font-size: 1em;
@@ -104,7 +109,8 @@ div.campo > input {
 }
 
 form > input[type=submit]:hover {
-    background-color: #6798aa;
+    background-color: #486c79 ;
+    background-color: #88cfe9 ;
 }
 
 form > a.botao {
